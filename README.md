@@ -4,6 +4,8 @@
 
 # Sensu Deregistration Handler
 
+Forked from https://github.com/calebhailey/sensu-deregistration-handler , added few improvements.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Usage](#usage)
